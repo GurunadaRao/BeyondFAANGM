@@ -554,6 +554,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <li><a href="https://careers.olxgroup.com/">Olx</a> </li>
 <li><a href="https://www.getonecard.app/careers/">OneCard</a> </li>
 <li><a href="https://www.oneplus.com/global/careers">Oneplus</a> </li>
+<li><a href="https://www.osplabs.com/careers/">OSP</a>  </li>   
 <li><a href="https://www.oracle.com/apac/corporate/careers/">Oracle</a>  </li>
 <li><a href="https://www.naukri.com/oyo-jobs-careers-2884032">OYO</a></li>
 <li><a href="https://www.observe.ai/careers#section-current-openings">Observe.ai</a></li>
